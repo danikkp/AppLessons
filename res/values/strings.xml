@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="up_text">Нажми кнопку еще разок, дружище!</string>
+	<string name="down_text">Или зажми подольше, чтобы сбросить</string>
+    <string name="app_name">butClickCounter</string>
+	<string name="but_init">0</string>
+
+</resources>
